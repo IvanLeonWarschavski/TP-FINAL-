@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1491400450 source:c:\users\ivan\desktop\tp-final--master\tp-final--master\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1603894944 source:c:\users\ivan\desktop\tp final 2020\tp final\tp-final--master\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"gotoxy.h"
+	"stCliente.h"
+	"stConsumos.h"
+
+1491399896 c:\users\ivan\desktop\tp final 2020\tp final\tp-final--master\gotoxy.h
+
+1603894939 c:\users\ivan\desktop\tp final 2020\tp final\tp-final--master\stcliente.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1603895098 c:\users\ivan\desktop\tp final 2020\tp final\tp-final--master\stconsumos.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1603895091 source:c:\users\ivan\desktop\tp final 2020\tp final\tp-final--master\stcliente.c
+	"stCliente.h"
+	"stConsumos.h"
+
+1491400450 source:c:\users\ivan\desktop\tp final 2020\tp final\tp-final--master\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1603895133 source:c:\users\ivan\desktop\tp final 2020\tp final\tp-final--master\stconsumos.c
+	"stConsumos.h"
+	"stCliente.h"
+

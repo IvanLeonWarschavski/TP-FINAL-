@@ -1,0 +1,44 @@
+								<<<-MANUAL DE USUARIO->>>
+
+[MAIN MENU] 
+
+[1] - CLIENTES
+[2] - CONSUMOS
+
+*La primera opcion, al seleccionarla, lo redirigirá hacia el submenu de la solapa clientes donde podrá realizar las siguientes
+operaciones: Alta, Baja, Modificacion de cliente, listar los clientes activos (2 metodos posibles: Dni, Apellido), buscar un cliente
+en particular, ver los clientes dados de baja ordenados por email y por ultimo cargar un cliente completamente aleatorio.*
+[SUBMENU CLIENTES]
+
+[1] - INGRESAR UN NUEVO CLIENTE    		 (Dar de alta un cliente en el sistema)
+[2] - DAR DE BAJA A UN CLIENTE    		 (Dar de baja un cliente previamente dado de alta)
+[3] - MODIFICAR DATOS DEL CLIENTE	 	 (modificar un cliente buscandolo por su dni)
+[4] - LISTAR CLIENTES ACTIVOS			 (Listar los clientes activos por dni o por apellido)
+[5] - LISTAR CLIENTES INACTIVOS	 		 (Listar los clientes dados de baja)
+
+												[6]-Para volver al menu principal del sistema.
+
+[SUBMENU CONSUMOS]
+
+[1] - crear consumo 
+[2] - dar baja a un consumo
+[3] - modificar un consumo
+[4] - listado de consumos
+[5] - estadisticas
+[6] - cargar cliente con consumos random
+
+*[1]: Seleccionando esta opcion, usted podrá cargarle a un cliente mediante su dni, el consumo en megabytes que desee darle.
+*[2]: Seleccionando esta opcion, usted podrá darle de baja al consumo de un cliente mediante su dni.
+*[3]: Seleccionando esta opcion, usted podrá modificar el consumo de un cliente buscandolo por su dni.
+*[4]: Seleccionando esta opcion, usted podrá acceder a los consumos filtrados por dia y mes de los usuarios activos.
+*[5]: Menu de estadisticas: Seleccionando esta opción, usted podrá acceder a un submenu. En este se encuentran 3 opciones:
+			[1] - Estadisticas de un cliente en particular
+			[2] - Estadisticas de todos los clientes
+			[ESC] - Volver al submenu
+
+*[5] opcion [1]: Seleccionando esta opcion, accederá mediante el dni que desee buscar, al usuario y sus consumos diarios, mensuales y demas estadisticas.
+*[5] opcion [2]: Seleccionando esta opcion, accederá a las estadisticas globales de todos los clientes que se encuentran en la plataforma.
+*[5] opcion [3]: Para volver al submenu.
+
+*[6]: Seleccionando esta opcion, accederá a la carga aleatoria de un cliente para posteriormente (y si se desea), comparar estadisticas o simplemente generar datos aleatorios.
+
